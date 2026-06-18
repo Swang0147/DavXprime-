@@ -1,0 +1,7 @@
+{
+  "name": "davxprime-web",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build"
+  }
+}
